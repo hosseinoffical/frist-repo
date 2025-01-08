@@ -27,3 +27,19 @@
     background-color:blueviolet;
 
 }
+.cngimg{
+    margin-top: 60px;
+    text-align: center;
+}
+.cnghead{
+    color: brown;
+    font-size: 30px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.addbor{
+    border: 10px solid rgb(203, 197, 195);
+    border-radius: 10px;
+    box-shadow: 5px 16px beige;
+    
+}
