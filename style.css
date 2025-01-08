@@ -1,0 +1,29 @@
+.flex{
+    color: tomato;
+    list-style: none;
+    flex: auto;
+}
+.heading1{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    
+
+}
+.background{
+    background-color: antiquewhite;
+
+}
+.heading2{
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    color:aquamarine;
+    
+
+}
+.bg2{
+    background-color:blueviolet;
+
+}
